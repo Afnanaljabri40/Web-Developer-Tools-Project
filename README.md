@@ -14,3 +14,6 @@ Output
    simple interest = p*t*r
 ```
 2023 XYZ, Inc
+git checkout -b bug-fix-revert
+git revert HEAD
+git push origin bug-fix-revert
